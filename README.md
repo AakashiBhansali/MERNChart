@@ -6,7 +6,7 @@ MERNChart uses a number of open source projects to work properly:
 
 * [ReactJS] - HTML enhanced for web apps
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
+* [Node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Webpack] - static module bundler for modern JavaScript applications
 And of course MERNChart itself is open source with a [public repository][dill]
@@ -37,7 +37,7 @@ $ NODE_ENV=production node app
 
    [dill]: <https://github.com/jinayshah86/MERNChart>
    [git-repo-url]: <https://github.com/jinayshah86/MERNChart.git>
-   [node.js]: <http://nodejs.org>
+   [Node.js]: <http://nodejs.org>
    [jQuery]: <http://jquery.com>
    [express]: <http://expressjs.com>
    [ReactJS]: <https://reactjs.org/>
