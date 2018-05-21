@@ -40,5 +40,6 @@ $ NODE_ENV=production node app
    [node.js]: <http://nodejs.org>
    [jQuery]: <http://jquery.com>
    [express]: <http://expressjs.com>
-   [ReactS]: <https://reactjs.org/>
+   [ReactJS]: <https://reactjs.org/>
    [Webpack]: <https://webpack.js.org/>
+   [Twitter Bootstrap]: <https://getbootstrap.com/docs/4.0/getting-started/download/>
