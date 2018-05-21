@@ -9,6 +9,7 @@ MERNChart uses a number of open source projects to work properly:
 * [Node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Webpack] - static module bundler for modern JavaScript applications
+
 And of course MERNChart itself is open source with a [public repository][dill]
  on GitHub.
 
